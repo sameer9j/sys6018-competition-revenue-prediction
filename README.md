@@ -8,6 +8,17 @@ Ning Han      (NH4MQ): Linear and nonlinear modeling (Python)
 
 Andrew Evans  (ACE8P): Data cleaning, competition report
 
+# Documents
+
+modelbuilding.py - Python-based OLS, Lasso, Spline and RF modeling using the original dataset with cross-validation
+
+SS8GC_Google_OLS.R - R-based Spline and OLS modeling using the new dataset
+
+c4-10 reflection.pdf - 1-page reflection on the project
+
+Data_Cleaning.ipynb - See below
+
+
 # Data Exploration and Data Cleaning 
 Non-categorical data: 
   - date: create week of daty and month of year based on date. 
