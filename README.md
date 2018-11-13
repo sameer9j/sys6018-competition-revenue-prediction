@@ -3,6 +3,7 @@ In-class kaggle Competition 4: Google Analytics Customer Revenue Prediction
 
 # Team members
 Sameer Singh  (SS8GC): Primary data cleaning, OLS Linear modeling (R)
+
 Ning Han      (NH4MQ): Nonlinear modeling (Python)
 Andrew Evans  (ACE8P): Data cleaning, competition report
 
