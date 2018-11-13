@@ -12,7 +12,7 @@ Andrew Evans  (ACE8P): Data cleaning, competition report
 
 modelbuilding.py - Python-based OLS, Lasso, Spline and RF modeling using the original dataset with cross-validation
 
-SS8GC_Google_OLS.R - R-based Spline and OLS modeling using the new dataset
+Google_OLS_Spline.R - R-based Spline and OLS modeling using the new dataset
 
 c4-10 reflection.pdf - 1-page reflection on the project
 
