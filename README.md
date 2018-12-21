@@ -1,12 +1,12 @@
 # sys6018-competition-revenue-prediction
-In-class kaggle Competition 4: Google Analytics Customer Revenue Prediction
+Kaggle Competition: Google Analytics Customer Revenue Prediction
 
 # Team members
-Sameer Singh  (SS8GC): Primary data cleaning, OLS Linear modeling (R)
+Sameer Singh  (SS8GC)
 
-Ning Han      (NH4MQ): Linear and nonlinear modeling (Python)
+Ning Han      (NH4MQ)
 
-Andrew Evans  (ACE8P): Data cleaning, competition report
+Andrew Evans  (ACE8P)
 
 # Documents
 
@@ -53,14 +53,4 @@ Categorical data:
  # Build Models 
    - Create models: Linear Regression (OLS), Lasso, RandomForestRegressor, Earth(Spline)
    - GridSearchCV: Linear Regression, Lasso 
-   - Sumbssion: Predict use randomforest model. 
-   
-   
-  
-   
-  
-  
-  
-
-
-
+   - Sumbssion: Predict use randomforest model
