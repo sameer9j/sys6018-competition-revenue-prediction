@@ -52,5 +52,5 @@ Categorical data:
    
 ### Modeling 
    - Models tried: Linear Regression (OLS), Lasso, Random Forest, Spline
-   - GridSearchCV: Linear Regression, Lasso 
-   - Final model: Random Forest
+   - Model validation: GridSearchCV on Linear Regression, Lasso 
+   - Best model: Random Forest
